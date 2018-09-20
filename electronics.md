@@ -18,3 +18,7 @@
 - Khan Academy
 - Neso Academy
 - Coursera
+
+## tools
+
+- [saleae logic analyzer](https://www.saleae.com/)
